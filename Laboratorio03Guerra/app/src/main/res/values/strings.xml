@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboratorio03Guerra</string>
+    <string name="initial_cash_0">0</string>
+    <string name="title_money">Cantidad de dinero</string>
+</resources>
